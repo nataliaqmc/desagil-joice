@@ -1,7 +1,5 @@
 package br.edu.insper.desagil.joice.model;
 
-import br.edu.insper.desagil.joice.model.Calculadora;
-
 public class CalculadoraCFC extends Calculadora{
 	private double densidade;
 
